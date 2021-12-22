@@ -49,6 +49,10 @@ button {
 	height: 20px;
 	width: 150px;
 }
-#result, footer{
+#result{
+	float: left;
+	text-align: left;
+}
+footer{
 	text-align: left;
 }
